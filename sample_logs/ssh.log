@@ -1,0 +1,9 @@
+Jan 28 10:15:32 server sshd[12345]: Failed password for root from 192.168.1.10 port 54321 ssh2
+Jan 28 10:15:35 server sshd[12345]: Failed password for root from 192.168.1.10 port 54321 ssh2
+Jan 28 10:15:38 server sshd[12345]: Failed password for root from 192.168.1.10 port 54321 ssh2
+Jan 28 10:16:01 server sshd[12346]: Failed password for user from 203.0.113.5 port 54432 ssh2
+Jan 28 10:16:05 server sshd[12346]: Failed password for user from 203.0.113.5 port 54432 ssh2
+Jan 28 10:16:09 server sshd[12346]: Failed password for user from 203.0.113.5 port 54432 ssh2
+Jan 28 10:16:13 server sshd[12346]: Failed password for user from 203.0.113.5 port 54432 ssh2
+Jan 28 10:16:17 server sshd[12346]: Failed password for user from 203.0.113.5 port 54432 ssh2
+Jan 28 10:16:21 server sshd[12346]: Failed password for user from 203.0.113.5 port 54432 ssh2
