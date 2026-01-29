@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv
+.venv/
+env/
+venv/
+
+# Logs e relatórios gerados
+*.log
+*.json
+*.html
+*.png
+
+# Pytest cache
+.pytest_cache/
+.coverage
+coverage.xml
+
+# IDE configs
+.vscode/
+.idea/
